@@ -1,0 +1,397 @@
+.main {
+    background-color: white;
+    box-shadow: 1px 5px 5px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.main_nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.in1_nav {
+    padding-left: 600px;
+}
+
+.list1>ul {
+    display: inline;
+}
+
+.list2>ul {
+    display: inline;
+}
+
+.list1 {
+    list-style-type: none;
+    padding: 5px;
+
+}
+
+.top {
+    text-align: center;
+    background-color: red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.list2 {
+    text-align: center;
+    list-style-type: none;
+}
+
+.shop {
+
+    padding: 15px;
+    border-radius: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: bold;
+
+}
+
+.second {
+    background-image: url(images/bgbrush.jpg);
+    height: 500px;
+}
+
+.innersecond {
+    padding-top: 100px;
+    padding-left: 30px;
+}
+
+.quiz {
+    padding: 15px;
+    border-radius: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: black;
+    background-color: aqua;
+    font-weight: bold;
+
+
+}
+
+.third {
+    text-align: center;
+    background-color: aqua;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.infourth {
+    height: 300px;
+    width: 200px;
+    border: 5px solid azure;
+    background-color: azure;
+    overflow: hidden;
+}
+
+.fourth {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    overflow: hidden;
+    margin-bottom: 75px;
+}
+
+h4 {
+    padding-left: 20px;
+}
+
+.inner {
+    text-align: center;
+}
+
+.fifth {
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.fifthin {
+    margin-left: 100px;
+    font-weight: bold;
+}
+
+.fifthin2>i {
+    color: azure;
+    padding-left: 15px;
+}
+
+.fifthin1 {
+    padding-left: 30px;
+}
+
+.sixthin2 {
+
+    padding: 15px;
+    border-radius: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.sixth {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.sixthin1 {
+    padding: 30px;
+}
+
+.seventh {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.eight {
+    text-align: center;
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 1px 1px grey;
+}
+
+.ninein2 {
+    height: 300px;
+    width: 225px;
+    background-color: azure;
+    border: 1px solid grey;
+
+}
+
+.nine {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.innine2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ninein1 {
+    height: 35px;
+    width: 35px;
+    border-radius: 35px;
+    border: 1px solid black;
+    margin-top: 125px;
+    margin-left: 10px;
+}
+
+.ninein {
+    height: 35px;
+    width: 35px;
+    border-radius: 35px;
+    border: 1px solid black;
+    margin-bottom: 5px;
+    margin-left: 10px;
+
+}
+
+.circle {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+}
+
+.circle1 {
+    margin-top: 125px;
+}
+
+p>i {
+
+    padding-left: 10px;
+    padding-top: 7px;
+    color: black;
+}
+
+span>i {
+    padding-top: 5px;
+    padding-left: 20px;
+
+
+
+}
+
+div>h3 {
+    text-align: center;
+    word-spacing: 5px;
+
+
+}
+
+.innine1 {
+    text-align: center;
+    color: gray;
+}
+
+div>h3 {
+    color: grey;
+}
+
+.circle2 {
+    height: 20px;
+    width: 20px;
+    background-color: aqua;
+    border-radius: 15px;
+}
+
+.main1 {
+    display: flex;
+    justify-content: center;
+    padding-left: 5px;
+}
+
+.tenth {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+}
+
+.tenthin1 {
+    text-align: center;
+    padding-left: 90px;
+}
+
+.eleven {
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+}
+
+.eleven1 {
+    padding-left: 130px;
+}
+
+.twelve {
+    text-align: center;
+    background-image: url(images/bgmouth.jpg);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.twelve>p {
+    letter-spacing: 3px;
+    line-height: -7px;
+    color: grey;
+}
+
+.thirteen {
+    display: flex;
+    justify-content: center;
+
+}
+
+.faqs {
+    height: 60px;
+    width: 250px;
+    border-radius: 55px;
+    font-weight: bold;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.thirteen1 {
+    padding-left: 30px;
+}
+
+.searchbar {
+    height: 60px;
+    min-width: 500px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.fourteen {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style-type: none;
+}
+
+.last {
+    display: flex;
+    justify-content: space-between;
+}
+
+.last1 {
+    display: flex;
+}
+
+.last1>span {
+    padding-left: 30px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    color: white;
+    padding-top: 30px;
+}
+
+.copylist>ul {
+    display: inline;
+    padding: 15px;
+
+}
+
+.color {
+    background-color: rgb(53, 36, 36);
+    color: white;
+    padding: 40px;
+}
+
+.between {
+    background-image: url(images/bgsecond.jpg);
+    height: 500px;
+}
+
+.innersec {
+    padding-top: 100px;
+    padding-left: 30px;
+    color: white;
+}
+
+.shop1 {
+
+    padding: 15px;
+    border-radius: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: bold;
+    color: gray;
+    background-color: black;
+
+}
